@@ -1,12 +1,3 @@
----
-title: Gabriel Díaz
-date: "2020-23-08"
-spoiler: Creativity Readme Template
-categories: ["creativity", "all-profile"]
-githubUsername: "gabihd3"
----
-
-
 <h4>  Hey there! 👀</h4> 
 
 I'm [Gabriel](https://www.linkedin.com/in/gabrieldiaz3/), I have recently graduated in Ph|ᴪ⟩sics and I am based in Manchester, UK. I am experienced in solving physics problems using Python and analysing experimental data. Currently, I am increasing my knowledge in data analysis and Machine Learning.
