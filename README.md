@@ -1,14 +1,35 @@
 Hey there! 👀
 
-I'm [Gabriel](https://www.linkedin.com/in/gabrieldiaz3/), I have recently graduated in **Ph|ᴪ⟩sics** and I am based in Manchester, UK. I am experienced in solving physics problems using Python and analysing experimental data. Currently, I am increasing my knowledge in data analysis and Machine Learning. 
+I'm [Gabriel](https://www.linkedin.com/in/gabrieldiaz3/), I have recently graduated in **Physics** and I am based in Manchester, UK.  Genuinely amazed by Deep Learning and self-taught *(potential)* data analyst.
 
- ## Analytics 💻📊
+Aiming to eventually contribute to solving physics problems by managing data. 📈📉
 
- I am working on my data modelling skills and implementation of statiscal algorithms and Deep Learning.📈
 
-Check my repositories here or alternatively check my kaggle account📉
+## **Ph$|\psi⟩$sics** ⚛︎
+---
+I am experienced in solving physics problems using Python and analysing experimental data. Among the studied methodologies:
+* Numerical integration $\int$
+* Fast Fourier Transform $\mathcal{F}$
+* Solution to non-linear ODE's $\partial x$ 
 
-Contact me also in:
-[Kaggle](https://www.kaggle.com/gabrieldiazhernandez)
 
-     
+ ## **Analytics 💻📊**
+ ---
+
+ I am working on my data modelling skills and implementation of statiscal algorithms and Deep Learning. I have experience in:
+ * Data preprocessing
+ * Regression, Classification and Clustering Algorithms
+ * Data visualization
+ * Neural Networks
+  
+I keep improving by using the platform *Kaggle*, aspiring to eventually become a notebook's expert.
+
+Check my work either here or alternatively check out my [Kaggle account.](https://www.kaggle.com/gabrieldiazhernandez)
+
+  *You can also contact me in:*
+
+---
+
+*[Medium](https://medium.com/@gabi.jdh)
+
+*[Linkedin](https://www.linkedin.com/in/gabrieldiaz3/)
