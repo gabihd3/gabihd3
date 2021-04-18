@@ -5,12 +5,13 @@ I'm [Gabriel](https://www.linkedin.com/in/gabrieldiaz3/), I have recently gradua
 Aiming to eventually contribute to solving physics problems by managing data. 📈📉
 
 
-## **Ph$|\psi⟩$sics** ⚛︎
+## **Ph|𝛹⟩sics** ⚛︎
 ---
 I am experienced in solving physics problems using Python and analysing experimental data. Among the studied methodologies:
-* Numerical integration $\int$
-* Fast Fourier Transform $\mathcal{F}$
-* Solution to non-linear ODE's $\partial x$ 
+* Numerical integration <img src="https://render.githubusercontent.com/render/math?math=\int">
+
+* Fast Fourier Transform <img src="https://render.githubusercontent.com/render/math?math=\mathcal{F}">
+* Solution to non-linear ODE's  <img src="https://render.githubusercontent.com/render/math?math=\partial x">
 
 
  ## **Analytics 💻📊**
@@ -28,7 +29,6 @@ Check my work either here or alternatively check out my [Kaggle account.](https:
 
   *You can also contact me in:*
 
----
 
 *[Medium](https://medium.com/@gabi.jdh)
 
