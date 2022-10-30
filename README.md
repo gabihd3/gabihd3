@@ -1,8 +1,6 @@
 Hey there! 👀
 
-I'm [Gabriel](https://www.linkedin.com/in/gabrieldiaz3/), I have recently graduated in **Physics** and I am based in Manchester, UK.  Genuinely amazed by Deep Learning and self-taught *(potential)* data analyst.
-
-Aiming to eventually contribute to solving physics problems by managing data. 📈📉
+I'm [Gabriel](https://www.linkedin.com/in/gabrieldiaz3/), A cyber analyst with background in **Physics** based in Cambridge. I have experience in the fields of cyber security tasks automations in Python and Bash, solving nonlinear physical problems and analyzing data using Machine Learning.
 
 
 ## **Ph|𝛹⟩sics** ⚛︎
@@ -23,11 +21,8 @@ I am experienced in solving physics problems using Python and analysing experime
  * Data visualization
  * Neural Networks
   
-I keep improving by using the platform *Kaggle*, aspiring to eventually become a notebook's expert.
 
-Check my work either here or alternatively check out my [Kaggle account.](https://www.kaggle.com/gabrieldiazhernandez)
-
-  *You can also contact me in:*
+  *Find me in:*
 
 
 *[Medium](https://medium.com/@gabi.jdh)
